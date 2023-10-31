@@ -17,6 +17,6 @@
 - [ ] Добавить стили и оформление
 
 ### Инструкция по установке:
-1) `python -m venv venv`;
-2) `pip install -r requirements.txt`;
+1) В командную строку: `python -m venv venv`;
+2) В командную строку: `pip install -r requirements.txt`;
 3) Запустить `main.py` и перейти на сайт по появившейся ссылке.
