@@ -1,5 +1,6 @@
 h1 {
     color: red;
+    font-size: 35px
 }
 
 img {
@@ -8,10 +9,10 @@ img {
 
 #violet {
     color: darkviolet;
-    font-size: 20px;
+    font-size: 20px
 }
 
 #green {
     color: limegreen;
-    font-size: 20px;
+    font-size: 20px
 }
