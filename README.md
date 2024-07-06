@@ -5,7 +5,7 @@
 
 `Адрес: Санкт-Петербург, Биржевой переулок, дом 1/10, 4 этаж, кв. 11`
 
-`Официальный сайт музея: https://artsacademymuseum.org/branches/muzei-kvartira-a-i-kuindzhi/`
+Официальный сайт музея: `https://artsacademymuseum.org/branches/muzei-kvartira-a-i-kuindzhi/`
 
 ### Содержимое:
 
